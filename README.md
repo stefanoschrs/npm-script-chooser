@@ -1,4 +1,4 @@
-# npm-script-runner
+# npm-script-chooser
 
 [![npm version](https://badge.fury.io/js/npm-script-chooser.svg)](https://badge.fury.io/js/npm-script-chooser)
 
