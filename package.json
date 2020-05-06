@@ -1,5 +1,5 @@
 {
-  "name": "npm-script-runner",
+  "name": "npm-script-chooser",
   "version": "1.0.0",
   "description": "Select script to run from package.json",
   "main": "index.js",
